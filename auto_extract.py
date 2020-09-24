@@ -4,7 +4,7 @@
                         Automatic Selenium Command Generator
 
     Version:            Version 1.0  
-    Author:             Chiver Wan 
+    Author:             Mingrui Yang
     Functionality:      html => this script => list of commands
                         This script returns the possible tag attribute "id" of the 
                         input fields on the career webpage that will later be used in 
