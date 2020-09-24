@@ -5,7 +5,7 @@
                     Main test file for automatic html processing
 
     Version:            v1.0 
-    Author:             Chiver Wan 
+    Author:             Mingrui Yang
     Functionality:      This is a test file of the module that automates the process 
                         from parsing an html career page, to finding the input fields 
                         that requires information, and finally to apply separately for 
