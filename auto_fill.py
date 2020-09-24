@@ -4,7 +4,7 @@
                             Test File of Auto Extract
 
     Version:            N/A  
-    Author:             Chiver Wan 
+    Author:             Mingrui Yang
     Functionality:      This file is a demo of how auto_extract.py, given an html page,
                         can return a list of field id's that can be used in the 
                         selenium commands.
